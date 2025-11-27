@@ -6,6 +6,6 @@ class App
     {
         Console.WriteLine("Simulation Started!");
         Console.WriteLine("Initializing...");
-        Console.WriteLine("Welcome to the Arena!");
+        Console.WriteLine("Welcome to the B2R!");
     }
 }

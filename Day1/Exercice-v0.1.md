@@ -1,6 +1,6 @@
-## <span style="color:#87CEEB; font-weight:bold;">Practical Exercises C#</span>
+## Practical Exercises C#
 
-**- Exercise 1: <span style="color:#FFD700;">The Greeting</span> Task :**
+**- Exercise 1: The Greeting**
 ```
 using System;
 
@@ -12,7 +12,8 @@ class GreetingApp
     }
 }
 ```
-**- Exercise 2: <span style="color:#FFD700;">Personal Info</span> Task :**
+
+**- Exercise 2: Personal Info**
 ```
 using System;
 
@@ -24,12 +25,12 @@ class PersonalInfo
         int age = 26;
         string city = "casablanca";
 
-        Console.WriteLine("My name is " + name + ", I am " + age + " years old and I live in " + city + ".");
+        Console.WriteLine("My name is " + name + ", I am " + age + " years old and I live in " + city);
     }
 }
 ```
 
-**- Exercise 3: <span style="color:#FFD700;">The Calculator</span> Task :**
+**- Exercise 3: The Calculator**
 ```
 using System;
 
@@ -46,7 +47,7 @@ class SimpleCalculator
 }
 ```
 
-**- Exercise 4: <span style="color:#FFD700;">The Bouncer (If/Else)</span> Task :**
+**- Exercise 4: The Bouncer (If/Else)**
 ```
 using System;
 
@@ -68,7 +69,7 @@ class BouncerCheck
 }
 ```
 
-**- Exercise 5: <span style="color:#FFD700;">The Countdown (Loops)</span>Task :**
+**- Exercise 5: The Countdown (Loops)**
 ```
 using System;
 
@@ -89,7 +90,7 @@ class CountdownApp
 }
 ```
 
-**- Exercise 6: <span style="color:#FFD700;">The Repeater (Functions)</span> Task :**
+**- Exercise 6: The Repeater (Functions)**
 ```
 using System;
 
@@ -109,7 +110,7 @@ class Repeater
 }
 ```
 
-**- Exercise 7: <span style="color:#FFD700;">Even or Odd?</span> Task :**
+**- Exercise 7: Even or Odd?**
 ```
 using System;
 
