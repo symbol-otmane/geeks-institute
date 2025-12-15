@@ -1,0 +1,8 @@
+public class Player
+{
+<<<<<<< HEAD
+    public int Health = 150;
+=======
+    public int Health = 200;
+>>>>>>> 073bf613d1411645b1cfd875fe43d72a5aae1faf
+}
