@@ -26,5 +26,80 @@ Using the SCAMPER method to reimagine the classic block-stacking mechanic:
 
 ---
 
-### Reflection
-The **Reverse** (carving out shapes) and **Substitute** (liquid physics) prompts offer the most potential for a modern "New Concept" indie game.
+
+## 1. Core Concept: Player → Verb → Goal
+* **Player** → **Light Swap** → **Reach the Portal.**
+* **Goal:** Reach the light portal at the end of each level.
+* **Rules:** * Movement is only possible within shadowed areas.
+    * Swapping the light source flips shadow positions instantly.
+* **Feedback:** A high-contrast "negative" screen flash and a heavy mechanical *thud-click* upon swapping.
+
+---
+
+## 2. Rules & Predictions
+* **Rule Change:** Shadows "linger" for 0.5 seconds after a swap before disappearing.
+* **Effect:** Players can perform "leap of faith" jumps, swapping mid-air to catch a shadow that hasn't vanished yet. This makes the gameplay feel more kinetic and rewarding for high-skill players.
+
+---
+
+## 3. Design Pillars
+* **Pillars:** Mental Mapping, Rhythmic Movement, Spatial Tension.
+* **Non-goal:** No combat or "lives" system; the focus is purely on the puzzle-platforming logic.
+
+---
+
+## 4. MDA Framework (Mechanics → Feeling)
+| Mechanic | Feeling |
+| :--- | :--- |
+| **Light Source Swap** | Empowerment / Control |
+| **Instant Death in Light** | Vulnerability / Precision |
+| **Moving Light Sources** | Urgency / Dynamic Planning |
+
+* **Remove one mechanic:** Without the "Instant Death in Light," the shadows become optional. The tension disappears, and it becomes a generic platformer rather than a puzzle game.
+
+---
+
+## 5. Core Loop & Progression
+**The Loop:**
+`Observe Geometry` → `Plan Shadow Path` → `Execute Swaps/Jumps` → `Reach Portal` → `Unlock New Light Mechanics` → `Repeat`
+
+**Progression (New Mechanic: Moving Lights):**
+1.  **Teach:** A light on a slow pendulum. Player waits for the shadow to sweep across a gap.
+2.  **Test:** Two pendulums out of sync. Player must time a jump from one moving shadow to the next.
+3.  **Twist:** Player can "Swap" to freeze the light movement for 2 seconds.
+4.  **Master:** Navigating a room of rotating lights while manually swapping to fill the gaps in the rotation.
+
+---
+
+## 6. Goals, Rules, Feedback, Rewards
+* **Goal:** Complete a "Perfect Run" (Zero light exposure).
+* **Rule 1:** Light meter fills if you touch brightness; 100% = Restart.
+* **Rule 2:** Swapping has a 1-second cooldown (prevents "spamming").
+* **Feedback (Success):** Portal emits a warm golden hum + satisfying chime on entry.
+* **Feedback (Failure):** Player character "evaporates" into white smoke + sharp hiss SFX.
+* **Cosmetic Reward:** Unlock "Neon Shadow" trails after 10 Perfect Runs.
+
+---
+
+## 7. Fair Challenge & Balance
+* **Fairness Tool:** **Shadow Snapping** — If a player is 5 pixels away from a shadow edge when landing, the game gently pulls them into the dark.
+* **Tuning Knobs:**
+    * **Swap Cooldown:** Shorten to make it easier; lengthen for "Hard Mode."
+    * **Light Sensitivity:** How fast the "Death Meter" fills when touching light.
+
+---
+
+## 8. Level Design (Teach → Test → Twist → Master)
+1.  **Room 1 (Teach):** Single wall, one swap required. Checkpoint at start.
+2.  **Room 2 (Test):** Multiple pillars. Player must swap 3 times to cross. Checkpoint after 2nd pillar.
+3.  **Room 3 (Twist):** A "flickering" light source that swaps automatically. Checkpoint before the flicker zone.
+4.  **Room 4 (Master):** Moving lights combined with player-controlled swaps. Checkpoint mid-way through the complex sequence.
+
+---
+
+## 9. UX & Accessibility
+* **Features:**
+    * **High-Contrast Mode:** Makes shadows pitch black and light zones bright yellow.
+    * **Swap Warning:** A subtle UI arrow indicating where the next shadow will appear.
+* **In-Game Prompt:**
+    > “The light is your enemy. Stand in the darkness. Press [Space] to shift the world and create your path.”
