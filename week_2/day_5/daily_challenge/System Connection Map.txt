@@ -1,0 +1,4 @@
+dofus
+
+combat generate resources - resources either are sold or used to craft
+based on the META & Farmable areas - price of resources generated fluctuate based on the current META, offer and demand

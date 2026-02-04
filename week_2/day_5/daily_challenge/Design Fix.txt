@@ -1,0 +1,5 @@
+Damage attenuation
+
+split the HP bar of bosses (source of high rewards) into 2 or more, based on how fast the last bar went down adjust damage reduction on the boss.
+
+e.g. 2 Bars - First bar went down in 2 hits - Apply damage attenuation - Second bar will take significantly more hits 10~15

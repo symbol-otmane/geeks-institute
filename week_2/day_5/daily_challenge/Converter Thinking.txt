@@ -1,0 +1,4 @@
+ores -> ingots
+coton -> cloth
+gold -> accessories
+meat -> food

@@ -1,0 +1,4 @@
+Mana :
+Source - Natural regeneration / potions
+Stock - Mana bar (capped by char capacity)
+Sink - Skills/Spells

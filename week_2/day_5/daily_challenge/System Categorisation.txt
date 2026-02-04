@@ -1,0 +1,8 @@
+Zelda (Zelda syndrome)
+Simple system : Break Jars - chance to get items
+
+Dofus (Crafting system)
+Complicated system : Gather resources from natural source & monster - craft items - random values on craft
+
+Warframe (Crafting system)
+Complex system : Do missions - missions have rotations AABC - different rewards in each rotation - among rewards are relics - relics have 6 rewards you only get 1 out of 6 with different % - the rewards are components to craft or to use for a craft

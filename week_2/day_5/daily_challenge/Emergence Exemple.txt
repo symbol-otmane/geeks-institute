@@ -1,0 +1,8 @@
+In Warframe latest patch a new content was added - The Descendia
+
+-a bug/exploit-
+
+Burst weapons (x4 shots per click) shoots the entire map on the second burst and empties the magazine of the weapon
+
+-what probably caused it-
+The buffs obtained from the 2 NPCs a the 7th and 14th floors of the Descendia
