@@ -1,0 +1,29 @@
+Release Notes – 3Cs Evolution
+
+
+Game: V-Gas: The Last Floor
+Version: 0.1 (Prototype Phase)
+Date: 2025-12-25
+
+Character:
+
+ Initially designed as a 2D platformer character with basic left/right movement and jump.
+ Transitioned to 2.5D, allowing limited depth movement (forward/back) while maintaining platforming mechanics.
+ Final design evolved into a full 3D first-person perspective, with character controls adapted for immersive exploration and combat.
+
+Camera:
+
+ Started with a fixed side-view camera for 2D platforming.
+ Updated to a semi-tracking camera for 2.5D to allow slight depth perception.
+ Final version uses a first-person camera to enhance immersion and tension, fully aligned with character orientation.
+
+Controls:
+
+* Original controls were simple: move left/right and jump.
+* Updated in 2.5D to include limited forward/back movement and camera-based adjustments.
+* Final 3D version includes full first-person movement (WASD/analog stick), look controls (mouse/controller), and interaction inputs for combat, exploration, and puzzle mechanics.
+
+Notes:
+
+ The evolution reflects the team’s decision to increase player immersion and suspense in the laboratory setting.
+ Future updates will refine first-person mechanics, camera responsiveness, and control feedback for smooth gameplay.
