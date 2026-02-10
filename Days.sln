@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week_1", "week_1", "{CD973987-14F3-E6B6-8E8D-8BB5CBC55D24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day5", "day5", "{3A567C8B-158E-AC4A-8C69-C9D1772B8A22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects02", "Projects02", "{158420E6-0FC1-5E72-F19E-6C024AFEECFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalExpenseTracker", "week_1\day5\Projects02\PersonalExpenseTracker.csproj", "{1DE2B9E1-D52A-85A8-8607-C83E0084DB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE2B9E1-D52A-85A8-8607-C83E0084DB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE2B9E1-D52A-85A8-8607-C83E0084DB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE2B9E1-D52A-85A8-8607-C83E0084DB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE2B9E1-D52A-85A8-8607-C83E0084DB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A567C8B-158E-AC4A-8C69-C9D1772B8A22} = {CD973987-14F3-E6B6-8E8D-8BB5CBC55D24}
+		{158420E6-0FC1-5E72-F19E-6C024AFEECFD} = {3A567C8B-158E-AC4A-8C69-C9D1772B8A22}
+		{1DE2B9E1-D52A-85A8-8607-C83E0084DB76} = {158420E6-0FC1-5E72-F19E-6C024AFEECFD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B24E8D-6FD5-4559-917E-7D400BBFF2BF}
+	EndGlobalSection
+EndGlobal
